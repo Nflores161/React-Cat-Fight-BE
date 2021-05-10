@@ -1,52 +1,74 @@
 {
-  "toys": [
+  "cats": [
     {
       "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "name": "Chargey-Boy",
+      "image": "https://cataas.com/cat/595f280c557291a9750ebf76",
+      "power": "100",
+      "attacc": "20"
     },
     {
       "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
+      "name": "Lil Gazey",
+      "image": "https://cataas.com/cat/595f280c557291a9750ebf80",
+      "power": "100",
+      "attacc": "20"
     },
     {
       "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "name": "Sir Spoopster",
+      "image": "https://cataas.com/cat/595f280c557291a9750ebf85",
+      "power": "100",
+      "attacc": "20"
     },
     {
       "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "name": "Space",
+      "image": "https://cataas.com/cat/595f280e557291a9750ebf9c",
+      "power": "100",
+      "attacc": "20"
     },
     {
       "id": 5,
-      "name": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+      "name": "Fly Boi",
+      "image": "https://cataas.com/cat/595f280d557291a9750ebf8f",
+      "power": "100",
+      "attacc": "20"
     },
     {
       "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
+      "name": "Long",
+      "image": "https://cataas.com/cat/595f280d557291a9750ebf96",
+      "power": "100",
+      "attacc": "20"
     },
     {
       "id": 7,
-      "name": "Hamm",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "name": "Furry-to",
+      "image": "https://cataas.com/cat/595f280d557291a9750ebf98",
+      "power": "100",
+      "attacc": "20"
     },
     {
       "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "name": "War Dancer",
+      "image": "https://cataas.com/cat/595f280e557291a9750ebf9e",
+      "power": "100",
+      "attacc": "20"
+    },
+    {
+      "id": 9,
+      "name": "Snoozy",
+      "image": "https://cataas.com/cat/595f280e557291a9750ebf9f",
+      "power": "100",
+      "attacc": "20"
+    },
+    {
+      "id": 10,
+      "name": "Boracha",
+      "image": "https://cataas.com/cat/595f280e557291a9750ebfa0",
+      "power": "100",
+      "attacc": "20"
     }
   ]
 }
