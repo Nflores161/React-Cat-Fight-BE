@@ -1,74 +1,87 @@
 {
+  "users": [
+    {
+      "id": 1,
+      "name": "Theodore",
+      "scores": [200, 300, 145, 350]
+    },
+    {
+      "id": 2,
+      "name": "Jenjivere",
+      "scores": [100, 400, 345, 250]
+    }
+  ],
+  
   "cats": [
     {
       "id": 1,
       "name": "Chargey-Boy",
       "image": "https://cataas.com/cat/595f280c557291a9750ebf76",
       "power": "100",
-      "attacc": "20"
+      "attacc": "5"
     },
     {
       "id": 2,
       "name": "Lil Gazey",
       "image": "https://cataas.com/cat/595f280c557291a9750ebf80",
       "power": "100",
-      "attacc": "20"
+      "attacc": "5"
     },
     {
       "id": 3,
       "name": "Sir Spoopster",
       "image": "https://cataas.com/cat/595f280c557291a9750ebf85",
       "power": "100",
-      "attacc": "20"
+      "attacc": "5"
     },
     {
       "id": 4,
       "name": "Space",
       "image": "https://cataas.com/cat/595f280e557291a9750ebf9c",
       "power": "100",
-      "attacc": "20"
+      "attacc": "5"
     },
     {
       "id": 5,
       "name": "Fly Boi",
       "image": "https://cataas.com/cat/595f280d557291a9750ebf8f",
       "power": "100",
-      "attacc": "20"
+      "attacc": "5"
     },
     {
       "id": 6,
       "name": "Long",
       "image": "https://cataas.com/cat/595f280d557291a9750ebf96",
       "power": "100",
-      "attacc": "20"
+      "attacc": "5"
     },
     {
       "id": 7,
       "name": "Furry-to",
       "image": "https://cataas.com/cat/595f280d557291a9750ebf98",
       "power": "100",
-      "attacc": "20"
+      "attacc": "5"
     },
     {
       "id": 8,
       "name": "War Dancer",
       "image": "https://cataas.com/cat/595f280e557291a9750ebf9e",
       "power": "100",
-      "attacc": "20"
+      "attacc": "5"
     },
     {
       "id": 9,
       "name": "Snoozy",
       "image": "https://cataas.com/cat/595f280e557291a9750ebf9f",
       "power": "100",
-      "attacc": "20"
+      "attacc": "5"
     },
     {
       "id": 10,
       "name": "Boracha",
       "image": "https://cataas.com/cat/595f280e557291a9750ebfa0",
       "power": "100",
-      "attacc": "20"
+      "attacc": "5"
     }
   ]
 }
