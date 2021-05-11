@@ -3,15 +3,38 @@
     {
       "id": 1,
       "name": "Theodore",
-      "scores": [200, 300, 145, 350]
+      "scores": [
+        200,
+        300,
+        145,
+        350
+      ]
     },
     {
       "id": 2,
       "name": "Jenjivere",
-      "scores": [100, 400, 345, 250]
+      "scores": [
+        100,
+        400,
+        345,
+        250
+      ]
+    },
+    {
+      "name": "Frances",
+      "scores": [
+        0
+      ],
+      "id": 3
+    },
+    {
+      "name": "Bill",
+      "scores": [
+        0
+      ],
+      "id": 4
     }
   ],
-  
   "cats": [
     {
       "id": 1,
