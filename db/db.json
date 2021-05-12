@@ -46,6 +46,13 @@
         500
       ],
       "id": 5
+    },
+    {
+      "name": "Garfield",
+      "scores": [
+        0
+      ],
+      "id": 6
     }
   ],
   "cats": [
