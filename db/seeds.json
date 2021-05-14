@@ -3,85 +3,273 @@
     {
       "id": 1,
       "name": "Theodore",
-      "scores": [200, 300, 145, 350]
+      "scores": [
+        200,
+        300,
+        145,
+        350,
+        500
+      ]
     },
     {
       "id": 2,
       "name": "Jenjivere",
-      "scores": [100, 400, 345, 250]
+      "scores": [
+        100,
+        400,
+        345,
+        250,
+        500
+      ]
+    },
+    {
+      "name": "Bill",
+      "scores": [
+        0,
+        2500
+      ],
+      "id": 3
+    },
+    {
+      "name": "NinjaCat",
+      "scores": [
+        0,
+        1000,
+        1000,
+        1000,
+        3000,
+        1500,
+        500,
+        3500,
+        3000,
+        500,
+        1000
+      ],
+      "id": 4
+    },
+    {
+      "name": "Spicy Boy",
+      "scores": [
+        0,
+        500,
+        1500,
+        2000,
+        1000,
+        2500,
+        500,
+        1500,
+        1000
+      ],
+      "id": 5
+    },
+    {
+      "name": "Garfield",
+      "scores": [
+        0
+      ],
+      "id": 6
+    },
+    {
+      "name": "Lara",
+      "scores": [
+        0,
+        3500,
+        500,
+        1500
+      ],
+      "id": 7
+    },
+    {
+      "name": "Pelegrino",
+      "scores": [
+        0,
+        500
+      ],
+      "id": 8
     }
   ],
+
+"cats": [
+  {
+    "id": 1,
+    "name": "Chargey-Boy",
+    "image": "https://cataas.com/cat/595f280c557291a9750ebf76",
+    "purrsonality": "Fierce fighter. Must be plugged in between battles.",
+    "power": "100",
+    "attacc": "5"
+  },
+  {
+    "id": 2,
+    "name": "Lil Gazey",
+    "image": "https://cataas.com/cat/595f280c557291a9750ebf80",
+    "purrsonality": "A soulful stare belies this warrior’s utter ruthlessness.",
+    "power": "100",
+    "attacc": "5"
+  },
+  {
+    "id": 3,
+    "name": "Sir Spoopster",
+    "image": "https://cataas.com/cat/595f280c557291a9750ebf85",
+    "purrsonality": "Scared but ready to prove himself.",
+    "power": "100",
+    "attacc": "5"
+  },
+  {
+    "id": 4,
+    "name": "Ace from Space",
+    "image": "https://cataas.com/cat/595f280e557291a9750ebf9c",
+    "purrsonality": "Has littered galaxies with the remains of his enemies.",
+    "power": "100",
+    "attacc": "5"
+  },
+  {
+    "id": 5,
+    "name": "Fly Boi",
+    "image": "https://cataas.com/cat/595f280d557291a9750ebf8f",
+    "purrsonality": "Born of Cat. Raised by Birds.",
+    "power": "100",
+    "attacc": "5"
+  },
+  {
+    "id": 6,
+    "name": "Furrito",
+    "image": "https://cataas.com/cat/595f280d557291a9750ebf98",
+    "purrsonality": "Wrapped and ready to go.",
+    "power": "100",
+    "attacc": "5"
+  },
+  {
+    "id": 7,
+    "name": "Snoozy",
+    "image": "https://cataas.com/cat/595f280e557291a9750ebf9f",
+    "purrsonality": "An undefeated warrior (if he can manage to stay awake during battle).",
+
+    "power": "100",
+    "attacc": "5"
+  },
+  {
+    "id": 8,
+    "name": "Boracha",
+    "image": "https://cataas.com/cat/595f280e557291a9750ebfa0",
+    "purrsonality": "Chaotic neutral. When not battling, can be found at the bottom of a beer box at the local dive.",
+    "power": "100",
+    "attacc": "5"
+   },
+  {
+    "id": 9,
+    "name": "Paws",
+    "image": "https://cataas.com/cat/595f280e557291a9750ebfa9",
+    "purrsonality": "You’re gonna need a bigger battleground.",
+    "power": "100",
+    "attacc": "5"
   
-  "cats": [
-    {
-      "id": 1,
-      "name": "Chargey-Boy",
-      "image": "https://cataas.com/cat/595f280c557291a9750ebf76",
-      "power": "100",
-      "attacc": "5"
-    },
-    {
-      "id": 2,
-      "name": "Lil Gazey",
-      "image": "https://cataas.com/cat/595f280c557291a9750ebf80",
-      "power": "100",
-      "attacc": "5"
-    },
-    {
-      "id": 3,
-      "name": "Sir Spoopster",
-      "image": "https://cataas.com/cat/595f280c557291a9750ebf85",
-      "power": "100",
-      "attacc": "5"
-    },
-    {
-      "id": 4,
-      "name": "Space",
-      "image": "https://cataas.com/cat/595f280e557291a9750ebf9c",
-      "power": "100",
-      "attacc": "5"
-    },
-    {
-      "id": 5,
-      "name": "Fly Boi",
-      "image": "https://cataas.com/cat/595f280d557291a9750ebf8f",
-      "power": "100",
-      "attacc": "5"
-    },
-    {
-      "id": 6,
-      "name": "Long",
-      "image": "https://cataas.com/cat/595f280d557291a9750ebf96",
-      "power": "100",
-      "attacc": "5"
-    },
-    {
-      "id": 7,
-      "name": "Furrito",
-      "image": "https://cataas.com/cat/595f280d557291a9750ebf98",
-      "power": "100",
-      "attacc": "5"
-    },
-    {
-      "id": 8,
-      "name": "War Dancer",
-      "image": "https://cataas.com/cat/595f280e557291a9750ebf9e",
-      "power": "100",
-      "attacc": "5"
-    },
-    {
-      "id": 9,
-      "name": "Snoozy",
-      "image": "https://cataas.com/cat/595f280e557291a9750ebf9f",
-      "power": "100",
-      "attacc": "5"
-    },
-    {
-      "id": 10,
-      "name": "Boracha",
-      "image": "https://cataas.com/cat/595f280e557291a9750ebfa0",
-      "power": "100",
-      "attacc": "5"
-    }
-  ]
+},
+  {
+    "id": 10,
+    "name": "Clint Treatswood",
+    "image": "https://cataas.com/cat/595f280f557291a9750ebfba",
+    "purrsonality": "You’ve gotta ask yourself a question: ‘Do I feel lucky?’. Well, do ya, punk?…",
+    "power": "100",
+    "attacc": "5"
+  
+},
+  {
+    "id": 11,
+    "name": "Nala",
+    "image": "https://cataas.com/cat/595f2809557291a9750ebf31",
+    "purrsonality": "A lion does not concern herself with the opinion of a sheep.",
+    "power": "100",
+    "attacc": "5"
+  
+},
+  {
+    "id": 12,
+    "name": "TwoFace",
+    "image": "https://cataas.com/cat/5eb9f36bfc6b05001805d6af",
+    "purrsonality": "You either die a hero or you live long enough to see yourself become the villain.",
+    "power": "100",
+    "attacc": "5"
+  
+},
+  {
+    "id": 13,
+    "name": "Cyclawps",
+    "image": "https://cataas.com/cat/5d39a47a14ca600011538e52",
+    "purrsonality": "The wise eyes of this chonk has seen much battle. Avoid direct eye contact.",
+    "power": "100",
+    "attacc": "5"
+  
+},
+  {
+    "id": 14,
+    "name": "Cat Lee",
+    "image": "https://cataas.com/cat/595f280f557291a9750ebfc6",
+    "purrsonality": "Has practiced this kick 10,0000 times.",
+    "power": "100",
+    "attacc": "5"
+  
+},
+  {
+    "id": 15,
+    "name": "Spook",
+    "image": "https://cataas.com/cat/595f280a557291a9750ebf5c",
+    "purrsonality": "Will win the staring contest and the battle.",
+    "power": "100",
+    "attacc": "5"
+  
+},
+  {
+    "id": 16,
+    "name": "Lucifur",
+    "image": "https://cataas.com/cat/595f280d557291a9750ebf93",
+    "purrsonality": "Unleashes the forces of evil upon his enemies.",
+    "power": "100",
+    "attacc": "5"
+  
+},
+  {
+    "id": 17,
+    "name": "Rocky",
+    "image": "https://cataas.com/cat/595f280f557291a9750ebfb1",
+    "purrsonality": "Owes nobody nothing.",
+    "power": "100",
+    "attacc": "5"
+  
+},
+  {
+    "id": 18,
+    "name": "Shere Khan",
+    "image": "https://cataas.com/cat/595f2810557291a9750ebfd5",
+    "purrsonality": "Everyone runs from Shere Khan…",
+    "power": "100",
+    "attacc": "5"
+  
+},
+  {
+    "id": 19,
+    "name": "Lady Spectre",
+    "image": "https://cataas.com/cat/5a12db6c5b0b89002b358643",
+    "purrsonality": "By the time you’ve seen her, you’ve already lost.",
+    "power": "100",
+    "attacc": "5"
+  
+},
+  {
+    "id": 20,
+    "name": "He Who Shall Not Be Named",
+    "image": "https://cataas.com/cat/5a2124d22d0232008a63ef95",
+    "purrsonality": "There is only power and those too weak to seek it.",
+    "power": "100",
+    "attacc": "5"
+  
+},
+  {
+    "id": 21,
+    "name": "The Reapurr",
+    "image": "https://cataas.com/cat/5ac1826061d533000f42c52f",
+    "purrsonality": "When The Reapurr comes to call, words fail - they’re just too small.",
+    "power": "100",
+    "attacc": "5"
+  }          
+]
 }
