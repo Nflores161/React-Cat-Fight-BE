@@ -58,7 +58,8 @@
         2500,
         500,
         1500,
-        1000
+        1000,
+        2500
       ],
       "id": 5
     },
@@ -95,6 +96,22 @@
         1000
       ],
       "id": 9
+    },
+    {
+      "name": "Phase2Project Warrior",
+      "scores": [
+        0,
+        1000
+      ],
+      "id": 10
+    },
+    {
+      "name": "Nick",
+      "scores": [
+        0,
+        500
+      ],
+      "id": 11
     }
   ],
   "cats": [
@@ -265,6 +282,14 @@
       "purrsonality": "When The Reapurr comes to call, words fail - they’re just too small.",
       "power": "100",
       "attacc": "5"
+    },
+    {
+      "name": "Garfield",
+      "image": "https://www.cartoonbrew.com/wp-content/uploads/2018/11/garfield_dindal-580x326.jpg",
+      "purrsonality": "Lasagna Lover",
+      "power": 100,
+      "attacc": 5,
+      "id": 22
     }
   ]
 }
